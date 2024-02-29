@@ -11,7 +11,7 @@
 ![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
 ![Screenshot 2](https://i.imgur.com/x3B34n1.png)
 
-## Features
+## Features test
 
 * 🔒 Full account management.
   * Add multiple accounts and easily switch between them.
